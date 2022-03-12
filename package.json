@@ -1,0 +1,19 @@
+{
+  "name": "varsa-vruksh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaypande023/varsa-vruksh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaypande023/varsa-vruksh/issues"
+  },
+  "homepage": "https://github.com/abhaypande023/varsa-vruksh#readme"
+}
